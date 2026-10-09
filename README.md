@@ -1,16 +1,14 @@
-## Hi there 👋
+---
+# Jeremy Sebastian — Liminal Institute
 
-<!--
-**kushkillerjsixx66/kushkillerjsixx66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **the Lattice** — a governance-first cognitive architecture for AI ("cognitive constitution"): layered gates (coherence · attention budget · reversibility), mandatory per-signal lineage, and refusal on insufficient evidence treated as a governed success. Capability is not authority.
 
-Here are some ideas to get you started:
+**Paper:** "The Lattice: Substrate-Independent Cognitive Governance and the Architecture of Algorithmic Constitutionalism" — https://doi.org/10.5281/zenodo.23242126
+**Live demo:** https://huggingface.co/spaces/Jeremysixx66/lattice-demo
+**Writing:** https://liminaljermo.substack.com · **are.na:** https://www.are.na/jeremy-sebastian
+**ORCID:** https://orcid.org/0009-0000-0609-822X
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Shipped mechanism
+- **Vara MCP Server** — governed external-environment scans with per-signal provenance. Official MCP Registry: `io.github.kushkillerjsixx66/vara-mcp-server`
+- **Canonical Vault MCP Server** — governed access to the canonical substrate: branch + PR writes only, never main.
+---
