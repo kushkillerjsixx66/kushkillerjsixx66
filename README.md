@@ -1,4 +1,3 @@
----
 # Jeremy Sebastian — Liminal Institute
 
 Building **the Lattice** — a governance-first cognitive architecture for AI ("cognitive constitution"): layered gates (coherence · attention budget · reversibility), mandatory per-signal lineage, and refusal on insufficient evidence treated as a governed success. Capability is not authority.
@@ -11,4 +10,3 @@ Building **the Lattice** — a governance-first cognitive architecture for AI ("
 ## Shipped mechanism
 - **Vara MCP Server** — governed external-environment scans with per-signal provenance. Official MCP Registry: `io.github.kushkillerjsixx66/vara-mcp-server`
 - **Canonical Vault MCP Server** — governed access to the canonical substrate: branch + PR writes only, never main.
----
