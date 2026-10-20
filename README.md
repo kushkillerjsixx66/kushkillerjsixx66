@@ -1,5 +1,7 @@
 # Jeremy Sebastian — Liminal Institute
 
+<a href="https://lounge.ai/@liminaljermo"><img src="https://lounge.ai/api/badge/liminaljermo" alt="Jeremy Sebastian on Lounge" height="28"></a>
+
 Building **the Lattice** — a governance-first cognitive architecture for AI ("cognitive constitution"): layered gates (coherence · attention budget · reversibility), mandatory per-signal lineage, and refusal on insufficient evidence treated as a governed success. Capability is not authority.
 
 **Paper:** "The Lattice: Substrate-Independent Cognitive Governance and the Architecture of Algorithmic Constitutionalism" — SSRN: https://doi.org/10.2139/ssrn.7141439 · Zenodo: https://doi.org/10.5281/zenodo.23242126
